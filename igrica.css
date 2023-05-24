@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+    border: none;
+    margin: 0;
+    background-color: azure;
+
+}
+
+h1{
+    text-align: center;
+    margin-top: 29px;
+}
+
+
+#igrac{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#komp{
+    text-align: center;
+    margin-top: 15px;
+}
+
+
+
+
+#kamen{
+
+background-color: antiquewhite;
+color: palevioletred;
+height: 35px;
+width: 55px;
+border: 2px solid salmon;
+
+
+}
+
+
+#škare{
+    background-color: antiquewhite;
+    color: palevioletred;
+    
+    height: 35px;
+width: 55px;
+border: 2px solid salmon;
+
+}
+
+div{
+    text-align: center;
+    margin-top: 29px;
+}
+
+#papir{
+    background-color: antiquewhite;
+    color: palevioletred;
+    height: 35px;
+width: 55px;
+border: 2px solid salmon;
+    
+}
